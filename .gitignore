@@ -1,0 +1,16 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/.env.*
+
+# Frontend
+frontend/node_modules/
+
+# Arquivos de IDE/Editor
+.vscode/
+.idea/
+
+# Logs e temporários
+*.log
+*.tmp
+
